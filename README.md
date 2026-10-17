@@ -28,7 +28,7 @@ A responsive personal portfolio website showcasing my projects, skills, and expe
 4. Projects
 5. Experience / Education
 6. Contact
-
+   
 ## Run locally
 
 ```bash
