@@ -3,7 +3,7 @@ A responsive personal portfolio website showcasing my projects, skills, and expe
 
 🔗 **Live site:** https://AdarshThakur-3242.github.io
 
-![Portfolio screenshot](C:\Users\adars\OneDrive\Pictures\Screenshots\Screenshot.png)
+![Portfolio screenshot] C:\Users\adars\OneDrive\Pictures\Screenshots\Screenshot.png
 
 ## Features
 
@@ -49,7 +49,7 @@ Then open `index.html` in your browser, or use the VS Code "Live Server" extensi
 ## Contact
 
 - Email: adarshthakur3242@gmail.com
-- LinkedIn: https://linkedin.com/in/yourprofil](https://www.linkedin.com/in/adarshasing-thakur-a216b3376/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BozSHHxwXS9eFI5gilresaQ%3D%3D
+- LinkedIn: www.linkedin.com/in/adarshasing-thakur-a216b3376
 - GitHub: https://github.com/AdarshThakur-3242
 
 ## License
