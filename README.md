@@ -32,8 +32,8 @@ A responsive personal portfolio website showcasing my projects, skills, and expe
 ## Run locally
 
 ```bash
-git clone https://github.com/AdarshThakur-3242/AdarshThakur-3242.github.io.git
-cd AdarshThakur-3242.github.io
+git clone https://github.com/AdarshThakur-3242/http://127.0.0.1:5173/
+cd http://127.0.0.1:5173/
 ```
 
 Then open `index.html` in your browser, or use the VS Code "Live Server" extension.
