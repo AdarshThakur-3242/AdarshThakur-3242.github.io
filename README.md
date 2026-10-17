@@ -1,7 +1,7 @@
 # Adarshasing Thakur | Personal Portfolio
 A responsive personal portfolio website showcasing my projects, skills, and experience.
 
-🔗 **Live site:** https://AdarshThakur-3242.github.io
+🔗 **Live site:** http://127.0.0.1:5173/
 
 ## Features
 
