@@ -3,7 +3,7 @@ A responsive personal portfolio website showcasing my projects, skills, and expe
 
 🔗 **Live site:** https://AdarshThakur-3242.github.io
 
-![Portfolio screenshot] C:\Users\adars\OneDrive\Pictures\Screenshots\Screenshot.png
+![Portfolio screenshot] (C:\Users\adars\OneDrive\Pictures\Screenshots\Screenshot.png)
 
 ## Features
 
